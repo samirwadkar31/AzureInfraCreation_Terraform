@@ -47,6 +47,7 @@ Here, we go :)
  
  ![image](https://github.com/samirwadkar31/AzureInfraCreation_Terraform/assets/74359548/75a9a541-0ef1-4c9c-9fdb-db679692a44b)
  ![image](https://github.com/samirwadkar31/AzureInfraCreation_Terraform/assets/74359548/9f5cca46-b6fd-4f14-bc91-be267198edfb)
+
  
  ![image](https://github.com/samirwadkar31/AzureInfraCreation_Terraform/assets/74359548/ce58752e-26dc-4c3d-8402-ae2894be8edc)
  
